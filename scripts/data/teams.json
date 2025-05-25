@@ -1,9 +1,9 @@
 {
     "teams": [
         {
-            "name": "Aerodynamics Team",
-            "description": "Responsible for optimizing the car's shape to reduce drag and enhance performance.",
-            "image": "../assets/images/team/aero-team.jpg"
+            "name": "Suspension Team",
+            "description": "Develops the suspension system to optimize handling and ride comfort on the track.",
+            "image": "../assets/images/team/suspension-team.jpg"
         },
         {
             "name": "Chassis Team",
@@ -11,14 +11,19 @@
             "image": "../assets/images/team/chassis-team.jpg"
         },
         {
+            "name": "Drivetrain Team",
+            "description": "Develops the drivetrain system to ensure efficient and smooth transmission of power and torque.",
+            "image": "../assets/images/team/drivetrain-team.jpg"
+        },
+        {
+            "name": "Aerodynamics Team",
+            "description": "Responsible for optimizing the car's shape to reduce drag and enhance performance.",
+            "image": "../assets/images/team/aero-team.jpg"
+        },
+        {
             "name": "Electrical Team",
             "description": "Handles all electrical systems, including wiring, sensors, and battery management.",
             "image": "../assets/images/team/electrical-team.jpg"
-        },
-        {
-            "name": "Suspension Team",
-            "description": "Develops the suspension system to optimize handling and ride comfort on the track.",
-            "image": "../assets/images/team/suspension-team.jpg"
         },
         {
             "name": "Software Team",
